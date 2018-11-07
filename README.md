@@ -8,3 +8,4 @@ Only dead fish swim down stream.
 Another line
 
 Yet, another line
+A conflicting line
