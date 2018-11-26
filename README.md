@@ -10,3 +10,4 @@ Another line
 Yet, another line
 A conflicting line
 Another conflicting line
+
