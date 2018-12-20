@@ -1,7 +1,2 @@
-Some notes here and there
-Adding a line in the test branch
-Adding a line in the mster branch.
-4th line
-5th line
-6th line
-c
+notes.txt
+===
